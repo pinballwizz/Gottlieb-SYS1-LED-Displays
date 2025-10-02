@@ -1,5 +1,5 @@
 # Gottlieb System 1 Pinball LED Displays
-![Model](sys1_displays.jpg)  
+![Model](displays_active.jpg)  ![Model](sys1_displays.jpg)  
 
 ![Model](sys1_score_display.jpg)  
 
