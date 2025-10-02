@@ -1,5 +1,11 @@
 # Gottlieb System 1 Pinball LED Displays
-![Model](displays_active.jpg)  ![Model](sys1_displays.jpg)  
+
+Gottlieb System 1 Pinball LED Displays to replace older style Gottlieb displays.  
+PinballWiz.org 2025  
+
+![Model](displays_active.jpg)  
+
+![Model](sys1_displays.jpg)  
 
 ![Model](sys1_score_display.jpg)  
 
@@ -10,7 +16,3 @@
 ![Model](sys1_J2_adapter.jpg)  
 
 ![Model](sys1_J3_adapter.jpg)  
-
-
-Gottlieb System 1 Pinball LED Displays to replace older style Gottlieb displays.  
-PinballWiz.org 2025
